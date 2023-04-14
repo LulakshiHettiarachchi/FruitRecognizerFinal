@@ -1,0 +1,6 @@
+0 Apple
+1 Banana
+2 Orange
+3 Pineapple
+4 Mango
+5 Avacado

@@ -1,0 +1,2 @@
+0 Good Condition
+1 Bad Condition
