@@ -13,21 +13,21 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->D:\fluter\new-img-clasification\plant-reco\final\android\app\src\debug\AndroidManifest.xml:7:5-66
-15-->D:\fluter\new-img-clasification\plant-reco\final\android\app\src\debug\AndroidManifest.xml:7:22-64
+15-->D:\fluter\img-clasification-final\FruitRecognizer\android\app\src\debug\AndroidManifest.xml:7:5-66
+15-->D:\fluter\img-clasification-final\FruitRecognizer\android\app\src\debug\AndroidManifest.xml:7:22-64
 16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-16-->[:tflite_flutter_helper] D:\fluter\new-img-clasification\plant-reco\final\build\tflite_flutter_helper\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-71
-16-->[:tflite_flutter_helper] D:\fluter\new-img-clasification\plant-reco\final\build\tflite_flutter_helper\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-68
+16-->[:tflite_flutter_helper] D:\fluter\img-clasification-final\FruitRecognizer\build\tflite_flutter_helper\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-71
+16-->[:tflite_flutter_helper] D:\fluter\img-clasification-final\FruitRecognizer\build\tflite_flutter_helper\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-68
 17    <uses-permission android:name="android.permission.CAMERA" />
-17-->[:camera] D:\fluter\new-img-clasification\plant-reco\final\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-65
-17-->[:camera] D:\fluter\new-img-clasification\plant-reco\final\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-62
+17-->[:camera] D:\fluter\img-clasification-final\FruitRecognizer\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-65
+17-->[:camera] D:\fluter\img-clasification-final\FruitRecognizer\build\camera\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-62
 18
 19    <application
 20        android:name="android.app.Application"
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 21-->[androidx.core:core:1.8.0] C:\Users\ASUS\.gradle\caches\transforms-3\d363e3b5616f580c766e3e2b3c05f27d\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 22        android:debuggable="true"
-23        android:icon="@mipmap/ic_launcher"
+23        android:icon="@mipmap/launcher_icon"
 24        android:label="Fruit Recogniser" >
 25        <activity
 26            android:name="com.kodeco.plantreco.MainActivity"
@@ -63,21 +63,21 @@
 56            android:value="2" />
 57
 58        <provider
-58-->[:image_picker_android] D:\fluter\new-img-clasification\plant-reco\final\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+58-->[:image_picker_android] D:\fluter\img-clasification-final\FruitRecognizer\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
 59            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-59-->[:image_picker_android] D:\fluter\new-img-clasification\plant-reco\final\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
+59-->[:image_picker_android] D:\fluter\img-clasification-final\FruitRecognizer\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
 60            android:authorities="com.kodeco.plantreco.flutter.image_provider"
-60-->[:image_picker_android] D:\fluter\new-img-clasification\plant-reco\final\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+60-->[:image_picker_android] D:\fluter\img-clasification-final\FruitRecognizer\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
 61            android:exported="false"
-61-->[:image_picker_android] D:\fluter\new-img-clasification\plant-reco\final\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+61-->[:image_picker_android] D:\fluter\img-clasification-final\FruitRecognizer\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
 62            android:grantUriPermissions="true" >
-62-->[:image_picker_android] D:\fluter\new-img-clasification\plant-reco\final\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+62-->[:image_picker_android] D:\fluter\img-clasification-final\FruitRecognizer\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
 63            <meta-data
-63-->[:image_picker_android] D:\fluter\new-img-clasification\plant-reco\final\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
+63-->[:image_picker_android] D:\fluter\img-clasification-final\FruitRecognizer\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
 64                android:name="android.support.FILE_PROVIDER_PATHS"
-64-->[:image_picker_android] D:\fluter\new-img-clasification\plant-reco\final\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+64-->[:image_picker_android] D:\fluter\img-clasification-final\FruitRecognizer\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
 65                android:resource="@xml/flutter_image_picker_file_paths" />
-65-->[:image_picker_android] D:\fluter\new-img-clasification\plant-reco\final\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
+65-->[:image_picker_android] D:\fluter\img-clasification-final\FruitRecognizer\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
 66        </provider>
 67
 68        <uses-library

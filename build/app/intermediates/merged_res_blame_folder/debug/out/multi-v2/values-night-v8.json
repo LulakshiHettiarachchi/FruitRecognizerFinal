@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\fluter\\new-img-clasification\\plant-reco\\final\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\fluter\\img-clasification-final\\FruitRecognizer\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\fluter\\new-img-clasification\\plant-reco\\final\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\fluter\\img-clasification-final\\FruitRecognizer\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

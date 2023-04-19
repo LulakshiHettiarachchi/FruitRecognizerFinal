@@ -1,12 +1,12 @@
-#Fri Apr 14 20:33:41 IST 2023
+#Wed Apr 19 09:43:23 IST 2023
 path.3=1/classes.dex
 path.2=0/classes.dex
 path.1=0/classes.dex
 path.0=classes.dex
-base.3=D\:\\fluter\\new-img-clasification\\plant-reco\\final\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.2=D\:\\fluter\\new-img-clasification\\plant-reco\\final\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.1=D\:\\fluter\\new-img-clasification\\plant-reco\\final\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
-base.0=D\:\\fluter\\new-img-clasification\\plant-reco\\final\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.3=D\:\\fluter\\img-clasification-final\\FruitRecognizer\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.2=D\:\\fluter\\img-clasification-final\\FruitRecognizer\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=D\:\\fluter\\img-clasification-final\\FruitRecognizer\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.0=D\:\\fluter\\img-clasification-final\\FruitRecognizer\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
